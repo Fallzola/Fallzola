@@ -1,10 +1,7 @@
-- 👋 Bom dia eu sou @Fallzola
-- 😔 Eu perdi minha conta antiga do github então estou usando essa
-- 👀 Adoro criar aplicativos, sites, automações e jogos
-- 🌱 To aprendendo HTML, CSS, JS
-- 😳 To interessado em React Native, Elixir, Node.js e MySQL
-- 💞️ Quero ajudar em projetos para ajudar e ganhar experiência
-- 📫 @Fallzola no Discord
+💻 Python Developer with experience in automation
+⚙️ Currently deepening my knowledge of C#.
+🌐 Fluent in Portuguese and English, and learning Italian.
+🚀 Always seeking new challenges and opportunities to learn and grow.
 
 <!---
 Fallzola/Fallzola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
