@@ -1,6 +1,6 @@
 -💻 Python Developer with experience in automation
 
--⚙️ Currently deepening my knowledge of C#.
+-⚙️ Currently deepening my knowledge.
 
 -🌐 Fluent in Portuguese and English, and learning Italian.
 
